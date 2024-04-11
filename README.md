@@ -1,5 +1,10 @@
 # Detecting the Presence of Biodiversity in the Ocean
-Investigating the impact of wind farm structures on underwater biodiversity.
+
+Motivation: Investigating the impact of wind farm structures on underwater biodiversity.
+
+Objectives:
+1. To detect the presence of underwater biodiversity in images and videos.
+2. To classify the underwater biodiversity into different classes, and the occurrence of each class in the image or video.
 
 ## Getting started
 1. Clone the repository.
