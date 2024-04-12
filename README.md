@@ -1,8 +1,8 @@
 # Detecting the Presence of Biodiversity in the Ocean
 
-Motivation: Investigating the impact of wind farm structures on underwater biodiversity.
+**Preparation for Ørsted Hack-Ø-Thon 2024:** Investigating the impact of wind farm structures on underwater biodiversity.
 
-Objectives:
+**Objectives:**
 1. To detect the presence of underwater biodiversity in images and videos.
 2. To classify the underwater biodiversity into different classes, and the occurrence of each class in the image or video.
 
